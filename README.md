@@ -84,13 +84,13 @@ You're now ready to work on your Django project within the virtual environment. 
 - To activate the virtual environment: follow step 2 above.
 - To deactivate the virtual environment: use the deactivate command.
 
-## Contributing
+## Contribution
 
-If you'd like to contribute to this guide, feel free to fork this repository, make your changes, and submit a pull request.
+Contributions to this repository are welcomed! If you encounter any issues, have suggestions for improvements, or want to add alternative  approaches, please consider opening a pull request or an issue. Your contributions can help enhance the value of this repository for the community.
 
 ## License
 
-This project is licensed under the MIT License.
+This repository is licensed under the [MIT License](LICENSE)
 
 Happy coding!
 
